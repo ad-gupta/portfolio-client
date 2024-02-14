@@ -28,9 +28,8 @@ const Page1 = () => {
                 UI Engineering.
               </div>
               <div className="">
-                Highly Skilled at progressive <br />
-                enhancement, design systems & <br />
-                UI Engineering.
+              Strategic decision-maker driving <br/>
+              projects forward with creativity <br />
               </div>
             </div>
           </div>
