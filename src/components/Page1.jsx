@@ -28,8 +28,9 @@ const Page1 = () => {
                 UI Engineering.
               </div>
               <div className="">
-              Strategic decision-maker driving <br/>
-              projects forward with creativity <br />
+              Skilled backend developer proficient <br />
+              in designing, implementing, and maintaining <br/>
+              scalable server-side applications and APIs.
               </div>
             </div>
           </div>
