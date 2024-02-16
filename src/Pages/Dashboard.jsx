@@ -2,7 +2,7 @@ import React from "react";
 
 const DashBoard = () => {
   return (
-    <div className="h-[180vh] p-10">
+    <div className="p-5 pt-10">
       <div className="m-10">
         <h1 className="text-3xl text-blue-800 text-center font-bold">
           Business Dashboard

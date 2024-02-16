@@ -2,7 +2,7 @@ import React from "react";
 
 const YouTube = () => {
   return (
-    <div className="h-[170vh] p-10 lg:h-[150vh]">
+    <div className="p-10">
       <div className="m-10">
         <h1 className="text-3xl text-blue-800 text-center font-bold">
           Video App
