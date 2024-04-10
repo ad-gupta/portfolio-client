@@ -22,7 +22,7 @@ const Sidebar = () => {
             <Link to="/myself">My Self</Link>
           </li>
           <a
-            href="https://shorturl.at/biAF7"
+            href="https://shorturl.at/biAF7https://drive.google.com/file/d/15kLq4cnMuFQZi8XTLcWli8jGuk_rRefj/view?usp=sharing"
             className="pl-7 justify-center font-semibold hover:bg-slate-200 rounded p-1"
           >
             My Resume
